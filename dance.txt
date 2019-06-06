@@ -1,0 +1,4 @@
+left
+right 
+jump up and down
+
